@@ -116,7 +116,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BSLLwhN3wGha5xO6WsbA-49" value="6. 获取数据，渲染内容" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BSLLwhN3wGha5xO6WsbA-48">
+        <mxCell id="BSLLwhN3wGha5xO6WsbA-49" value="5. 返回数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BSLLwhN3wGha5xO6WsbA-48">
           <mxGeometry x="0.175" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
