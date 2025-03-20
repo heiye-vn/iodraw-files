@@ -70,7 +70,7 @@
         </mxCell>
         <mxCell id="BSLLwhN3wGha5xO6WsbA-45" value="6. 获取数据，渲染内容" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BSLLwhN3wGha5xO6WsbA-35">
           <mxGeometry x="0.175" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="31" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BSLLwhN3wGha5xO6WsbA-40" value="&lt;font color=&quot;#ff0000&quot;&gt;数据库&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
