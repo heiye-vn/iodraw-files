@@ -109,16 +109,27 @@
         </mxCell>
         <mxCell id="BSLLwhN3wGha5xO6WsbA-48" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="660" y="-2040" as="sourcePoint" />
-            <mxPoint x="370" y="-2040" as="targetPoint" />
+            <mxPoint x="670" y="-2040" as="sourcePoint" />
+            <mxPoint x="380" y="-2040" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="390" y="-2040" />
+              <mxPoint x="400" y="-2040" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="BSLLwhN3wGha5xO6WsbA-49" value="3. 返回数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BSLLwhN3wGha5xO6WsbA-48">
           <mxGeometry x="0.175" y="1" relative="1" as="geometry">
             <mxPoint x="40" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BSLLwhN3wGha5xO6WsbA-53" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="-2190" as="sourcePoint" />
+            <mxPoint x="390" y="-2190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BSLLwhN3wGha5xO6WsbA-54" value="1. 请求路径1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BSLLwhN3wGha5xO6WsbA-53">
+          <mxGeometry x="0.0667" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
