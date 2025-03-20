@@ -50,8 +50,8 @@
         </mxCell>
         <mxCell id="BSLLwhN3wGha5xO6WsbA-34" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="140" y="-2120" as="sourcePoint" />
-            <mxPoint x="380" y="-2120" as="targetPoint" />
+            <mxPoint x="260" y="-1780" as="sourcePoint" />
+            <mxPoint x="500" y="-1780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BSLLwhN3wGha5xO6WsbA-38" value="3. 请求数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BSLLwhN3wGha5xO6WsbA-34">
@@ -61,10 +61,10 @@
         </mxCell>
         <mxCell id="BSLLwhN3wGha5xO6WsbA-35" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="-2020" as="sourcePoint" />
-            <mxPoint x="140" y="-2020" as="targetPoint" />
+            <mxPoint x="560" y="-1710" as="sourcePoint" />
+            <mxPoint x="320" y="-1710" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="160" y="-2020" />
+              <mxPoint x="340" y="-1710" />
             </Array>
           </mxGeometry>
         </mxCell>
