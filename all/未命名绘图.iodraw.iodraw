@@ -28,6 +28,9 @@
         <mxCell id="BSLLwhN3wGha5xO6WsbA-23" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="640" y="-2290" width="60" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="BSLLwhN3wGha5xO6WsbA-26" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="640" y="-2300" width="60" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
