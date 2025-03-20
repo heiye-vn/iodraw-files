@@ -7,8 +7,14 @@
         <mxCell id="BSLLwhN3wGha5xO6WsbA-1" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="380" y="340" width="60" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="BSLLwhN3wGha5xO6WsbA-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BSLLwhN3wGha5xO6WsbA-2" target="BSLLwhN3wGha5xO6WsbA-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BSLLwhN3wGha5xO6WsbA-2" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="390" y="350" width="60" height="40" as="geometry" />
+          <mxGeometry x="610" y="440" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BSLLwhN3wGha5xO6WsbA-3" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="380" y="320" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
