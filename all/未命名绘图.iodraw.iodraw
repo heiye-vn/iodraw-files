@@ -19,22 +19,22 @@
         <mxCell id="BSLLwhN3wGha5xO6WsbA-62" value="CDN 边缘服务器1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="-2030" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="BSLLwhN3wGha5xO6WsbA-63" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.017;exitY=0.633;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="BSLLwhN3wGha5xO6WsbA-14" target="BSLLwhN3wGha5xO6WsbA-61">
+        <mxCell id="BSLLwhN3wGha5xO6WsbA-63" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="BSLLwhN3wGha5xO6WsbA-61">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="260" y="-2090" as="sourcePoint" />
+            <mxPoint x="210" y="-2260" as="sourcePoint" />
             <mxPoint x="310" y="-2140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BSLLwhN3wGha5xO6WsbA-64" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.017;exitY=0.633;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="BSLLwhN3wGha5xO6WsbA-61">
+        <mxCell id="BSLLwhN3wGha5xO6WsbA-64" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="BSLLwhN3wGha5xO6WsbA-61">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="200" y="-2130" as="sourcePoint" />
+            <mxPoint x="210" y="-2130" as="sourcePoint" />
             <mxPoint x="332" y="-2090" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BSLLwhN3wGha5xO6WsbA-65" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BSLLwhN3wGha5xO6WsbA-58" target="BSLLwhN3wGha5xO6WsbA-62">
+        <mxCell id="BSLLwhN3wGha5xO6WsbA-65" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="210" y="-2120" as="sourcePoint" />
-            <mxPoint x="346" y="-2167" as="targetPoint" />
+            <mxPoint x="210" y="-1990.5" as="sourcePoint" />
+            <mxPoint x="330" y="-1990.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
