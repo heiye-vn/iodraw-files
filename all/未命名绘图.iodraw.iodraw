@@ -16,7 +16,7 @@
         <mxCell id="BSLLwhN3wGha5xO6WsbA-20" value="服务器" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="-2010" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="BSLLwhN3wGha5xO6WsbA-22" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="BSLLwhN3wGha5xO6WsbA-16">
+        <mxCell id="BSLLwhN3wGha5xO6WsbA-22" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="BSLLwhN3wGha5xO6WsbA-50">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="140" y="-2170" as="sourcePoint" />
             <mxPoint x="140" y="-2240" as="targetPoint" />
@@ -120,6 +120,15 @@
           <mxGeometry x="0.175" y="1" relative="1" as="geometry">
             <mxPoint x="40" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="BSLLwhN3wGha5xO6WsbA-51" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="BSLLwhN3wGha5xO6WsbA-16" target="BSLLwhN3wGha5xO6WsbA-50">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="-2000" as="sourcePoint" />
+            <mxPoint x="140" y="-2240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BSLLwhN3wGha5xO6WsbA-50" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="-2080" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
