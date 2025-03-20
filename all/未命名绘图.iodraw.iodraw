@@ -43,7 +43,7 @@
             <mxPoint x="380" y="-2140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BSLLwhN3wGha5xO6WsbA-36" value="1. 请求路径1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BSLLwhN3wGha5xO6WsbA-32">
+        <mxCell id="BSLLwhN3wGha5xO6WsbA-36" value="1. 请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BSLLwhN3wGha5xO6WsbA-32">
           <mxGeometry x="0.0667" y="2" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
