@@ -8,7 +8,7 @@
           <mxGeometry x="80" y="-2300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BSLLwhN3wGha5xO6WsbA-16" value="客户端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="-2000" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="-2160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BSLLwhN3wGha5xO6WsbA-18" value="服务器" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="-2310" width="120" height="80" as="geometry" />
@@ -55,20 +55,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="669.5" y="-2000" as="sourcePoint" />
             <mxPoint x="669.5" y="-2240" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BSLLwhN3wGha5xO6WsbA-42" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="-2100" as="sourcePoint" />
-            <mxPoint x="140" y="-2100" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="160" y="-2100" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BSLLwhN3wGha5xO6WsbA-44" value="2. 返回HTML" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BSLLwhN3wGha5xO6WsbA-42">
-          <mxGeometry x="-0.0167" y="-1" relative="1" as="geometry">
-            <mxPoint x="8" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
