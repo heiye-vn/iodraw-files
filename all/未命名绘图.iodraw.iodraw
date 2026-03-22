@@ -52,7 +52,7 @@
         <mxCell id="SlTobFErCvXiE95NRd70-19" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;create_user（&lt;/font&gt;&lt;/b&gt;更新角色&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;）&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="300" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SlTobFErCvXiE95NRd70-20" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;create_user（&lt;/font&gt;&lt;/b&gt;删除角色&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;）&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SlTobFErCvXiE95NRd70-20" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;delete_role（&lt;/font&gt;&lt;/b&gt;删除角色&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;）&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="400" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SlTobFErCvXiE95NRd70-24" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;view_role（&lt;/font&gt;&lt;/b&gt;查看角色&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;）&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
